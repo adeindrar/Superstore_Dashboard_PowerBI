@@ -6,7 +6,7 @@ This project focuses on data visualization to compare Profit, Quantity and Sales
 
 ![plot](SS_Dashboard.png)
 
-## File yang Tersedia 
+## Available Files
 
 - `script_DataLoading.ipynb`: Data loading to view info, missing values, duplicates in the dataset.
 - `Superstore_Dashboard.pbix`: Power BI dashboard to view required metrics and analyze performance.
