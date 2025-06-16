@@ -1,6 +1,6 @@
 # Superstore Dashboard
 
-This project focuses on data visualization to compare Profit, Quantity and Sales metrics from year to year using the formula Year to Date vs Prior Year to Date.
+This project focuses on data visualization to compare Profit, Quantity and Sales metrics from year to year using the formula Year to Date vs Prior Year to Date. This dashboard is a reference from Mo Chen.
 
 [Super Store Dataset](https://public.tableau.com/app/learn/sample-data)
 
